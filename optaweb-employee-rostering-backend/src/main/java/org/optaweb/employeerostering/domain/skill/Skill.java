@@ -36,7 +36,7 @@ public class Skill extends AbstractPersistable {
 
     @SuppressWarnings("unused")
     public Skill() {
-
+    
     }
 
     public Skill(Integer tenantId, String name) {
